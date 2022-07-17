@@ -1,0 +1,50 @@
+{
+  "name": "estigmail",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@googleapis/gmail": "^0.3.4",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "dotenv": "^16.0.1",
+    "gapi-script": "^1.2.0",
+    "gmail-send": "^1.8.14",
+    "google-auth-library": "^8.0.3",
+    "googleapis": "^39.2.0",
+    "jquery": "^3.6.0",
+    "js-base64": "^3.7.2",
+    "oidc-client": "^1.11.5",
+    "prop-types": "^15.8.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-gmail": "^1.0.1",
+    "react-google-button": "^0.7.2",
+    "react-google-login": "^5.2.2",
+    "react-icons": "^4.4.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.1",
+    "save": "^2.5.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

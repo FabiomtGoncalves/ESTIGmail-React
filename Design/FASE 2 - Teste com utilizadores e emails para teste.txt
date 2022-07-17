@@ -1,0 +1,12 @@
+Testes com utilizadores:
+
+Teste com utilizador 1: https://mega.nz/file/APhSHSIA#3U551U0jiKuqYtboy1KGZTQh856DDwYPQ_kRBmIcWKw
+
+Teste com utilizador 2: https://mega.nz/file/8aBh2R6Y#6c1-5fMeKtm-gxCmQLopxk9aAYZgxI34RcJzGY9d7fs
+
+
+Emails para testar funcionamente do sistema:
+
+Email: "twam17646@gmail.com" Plavra-passe: "twam2122"
+
+Email: "twam20481@gmail.com" Palavra-passe: "twam2122"
