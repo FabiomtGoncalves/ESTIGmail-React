@@ -6,7 +6,7 @@ React
 ```  
 #Gmail API
 
-- `Tarefa 1` - Enviar email; 
-- `Tarefa 2` - Criação de rascunhos.;
-- `Tarefa EXTRA` - Consultar emails enviados;
-- `Tarefa EXTRA` - Visualizar e utilizador rascunhos previamente criados.
+- `Task 1` - Send email; 
+- `Task 2` - Creation of drafts.;
+- `Task EXTRA` - Check sent emails;
+- `Task EXTRA` - Check and use previously created drafts.
