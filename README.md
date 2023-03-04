@@ -8,5 +8,5 @@ React
 
 - `Task 1` - Send email; 
 - `Task 2` - Creation of drafts.;
-- `Task EXTRA` - Check sent emails;
-- `Task EXTRA` - Check and use previously created drafts.
+- `Extra Task` - Check sent emails;
+- `Extra task` - Check and use previously created drafts.
