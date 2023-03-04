@@ -1,7 +1,7 @@
 # ESTIGmail
 
-UC: Tecnologias para a Web e Ambientes Móveis (TWAM)
-[Relatório](https://github.com/FabiomtGoncalves/ESTIGmail-React/blob/master/imgs/homepage.png)
+UC: Tecnologias para a Web e Ambientes Móveis (TWAM)  
+[Relatório](https://github.com/FabiomtGoncalves/ESTIGmail-React/blob/master/TWAM_Fase2_17646.pdf)
 ```
 IDE: PhpStorm
 NodeJS (16.15.0)
@@ -23,4 +23,4 @@ Using Gmail's RESTful API to do the following tasks:
 **Homepage**
 ![Homepage Interface](https://github.com/FabiomtGoncalves/ESTIGmail-React/blob/master/imgs/homepage.png)
 
-[More Details](https://github.com/FabiomtGoncalves/ESTIGmail-React/blob/master/imgs/homepage.png)
+[More Details](https://github.com/FabiomtGoncalves/ESTIGmail-React/blob/master/TWAM_Fase2_17646.pdf)
