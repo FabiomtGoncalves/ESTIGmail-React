@@ -2,7 +2,9 @@
 
 UC: Tecnologias para a Web e Ambientes Móveis (TWAM)
 ```
-React
+IDE: PhpStorm
+NodeJS (16.15.0)
+React (18.2.0)
 ```  
 Using Gmail's RESTful API to do the following tasks:
 
@@ -14,7 +16,7 @@ Using Gmail's RESTful API to do the following tasks:
 **Login** - Using your already existing Gmail account to sign in by pressing the '+' button.
 ![Login Interface](https://github.com/FabiomtGoncalves/ESTIGmail-React/blob/master/imgs/login.png)
 
-**Permissions**
+**Permissions** - Checking the permissions checkboxes to give the website permissions to be able to use your Gmail account to read, write, send and delete emails.
 ![Permissions Popup](https://github.com/FabiomtGoncalves/ESTIGmail-React/blob/master/imgs/login-permissions.png)
 
 **Homepage**
