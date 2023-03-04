@@ -11,3 +11,5 @@ Using Gmail's RESTful API to do the following tasks:
 - `Extra Task` - Check sent emails;
 - `Extra task` - Check and use previously created drafts.
 
+**Login** - Using your already existing Gmail account to sign in by pressing the '+' button.
+![Login Interface](https://mega.nz/file/VG5DRarY#FO0AZTl7_uZJJd9v28g2lrxtSmPIi99JsnHdMw-IAGM)
